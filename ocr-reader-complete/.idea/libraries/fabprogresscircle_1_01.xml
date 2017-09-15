@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fabprogresscircle-1.01">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/0e927180df4a03e28bea2131b9b301558c264e61/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0e927180df4a03e28bea2131b9b301558c264e61/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jorgecastilloprz/fabprogresscircle/1.01/5175d548a4a384434731a254962e414953af7cc5/fabprogresscircle-1.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

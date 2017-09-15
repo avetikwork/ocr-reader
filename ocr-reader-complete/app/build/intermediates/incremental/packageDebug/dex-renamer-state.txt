@@ -1,0 +1,7 @@
+#Fri Sep 15 10:13:54 CEST 2017
+base.0=/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2fc683a726a2bd34f8aaf280143668165e39c8db
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_998127eacb2e0dccdcdc96bb75f7c707205a2e14/classes.dex
+base.1=/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_998127eacb2e0dccdcdc96bb75f7c707205a2e14
+file.0=/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2fc683a726a2bd34f8aaf280143668165e39c8db/classes.dex

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

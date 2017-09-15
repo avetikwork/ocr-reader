@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/avetikabovyan/.android/build-cache/81678a7113dac7fb82b83d9aa2c9290966992f71/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/avetikabovyan/.android/build-cache/54d5558794ec56566630a6368a63d3cd3306e48e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/avetikabovyan/.android/build-cache/d9315a454135340ffdedd37aef1d009cf0523c59/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/avetikabovyan/.android/build-cache/fe4545c7b6f1063b4e8eb5af3558b631842b2dbd/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/avetikabovyan/.android/build-cache/f783b1cec3807e9b376ba9931eb2f85e2176dded/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.3.1] /Users/avetikabovyan/.android/build-cache/2a82b88645db0fc6b8d056cb7f888167e5901044/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/avetikabovyan/.android/build-cache/a8b27c843baaad45158e58289bf53649c581cf6c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/avetikabovyan/.android/build-cache/34e4d522886dcdc199ae668c39c5c1885fa4eccb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/avetikabovyan/.android/build-cache/3ddcffe13b6913533b9f131fc99c03f4366c206a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/avetikabovyan/.android/build-cache/b09e081bad410986d08ba2d7d3e3b5483385b236/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/avetikabovyan/.android/build-cache/14535bf793daf3b73159f62a9b7ecd47de920d07/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/avetikabovyan/.android/build-cache/d9f82429910919e23252218b2c4dd85c974d3255/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/avetikabovyan/.android/build-cache/1db52f40014de7c29f28a4b9f80f5c7a4baba2d1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/avetikabovyan/.android/build-cache/8737fe119cd1b5e60c395329f54dabafb56326b0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/avetikabovyan/.android/build-cache/927cf73c112759238faaa0cffafec47dba60edcd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.github.jorgecastilloprz:fabprogresscircle:1.01] /Users/avetikabovyan/.android/build-cache/0e927180df4a03e28bea2131b9b301558c264e61/output/AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:17:9-37
+	android:hardwareAccelerated
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:14:9-43
+	android:fullBackupContent
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:13:9-42
+	android:allowBackup
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:15:9-38
+	android:theme
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:18:9-47
+meta-data#com.google.android.gms.version
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:19:9-21:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/avetikabovyan/.android/build-cache/f783b1cec3807e9b376ba9931eb2f85e2176dded/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:20:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:22:9-24:35
+	android:value
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:24:13-32
+	android:name
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:23:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:screenOrientation
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:13-50
+	android:label
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:26:19-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/avetikabovyan/.android/build-cache/81678a7113dac7fb82b83d9aa2c9290966992f71/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/avetikabovyan/.android/build-cache/54d5558794ec56566630a6368a63d3cd3306e48e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/avetikabovyan/.android/build-cache/d9315a454135340ffdedd37aef1d009cf0523c59/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/avetikabovyan/.android/build-cache/fe4545c7b6f1063b4e8eb5af3558b631842b2dbd/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/avetikabovyan/.android/build-cache/f783b1cec3807e9b376ba9931eb2f85e2176dded/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:25.3.1] /Users/avetikabovyan/.android/build-cache/2a82b88645db0fc6b8d056cb7f888167e5901044/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/avetikabovyan/.android/build-cache/a8b27c843baaad45158e58289bf53649c581cf6c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/avetikabovyan/.android/build-cache/34e4d522886dcdc199ae668c39c5c1885fa4eccb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/avetikabovyan/.android/build-cache/9ca09682edddbf3f50e79ad5f284da5ea0129508/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/avetikabovyan/.android/build-cache/3ddcffe13b6913533b9f131fc99c03f4366c206a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/avetikabovyan/.android/build-cache/b09e081bad410986d08ba2d7d3e3b5483385b236/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/avetikabovyan/.android/build-cache/14535bf793daf3b73159f62a9b7ecd47de920d07/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/avetikabovyan/.android/build-cache/d9f82429910919e23252218b2c4dd85c974d3255/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/avetikabovyan/.android/build-cache/1db52f40014de7c29f28a4b9f80f5c7a4baba2d1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/avetikabovyan/.android/build-cache/8737fe119cd1b5e60c395329f54dabafb56326b0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/avetikabovyan/.android/build-cache/927cf73c112759238faaa0cffafec47dba60edcd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.jorgecastilloprz:fabprogresscircle:1.01] /Users/avetikabovyan/.android/build-cache/0e927180df4a03e28bea2131b9b301558c264e61/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/avetikabovyan/.android/build-cache/2a82b88645db0fc6b8d056cb7f888167e5901044/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avetikabovyan/git/ocr-reader/ocr-reader-complete/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/avetikabovyan/.android/build-cache/d9315a454135340ffdedd37aef1d009cf0523c59/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/avetikabovyan/.android/build-cache/d9315a454135340ffdedd37aef1d009cf0523c59/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/avetikabovyan/.android/build-cache/d9315a454135340ffdedd37aef1d009cf0523c59/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/avetikabovyan/.android/build-cache/d9315a454135340ffdedd37aef1d009cf0523c59/output/AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/avetikabovyan/.android/build-cache/2a82b88645db0fc6b8d056cb7f888167e5901044/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/avetikabovyan/.android/build-cache/1cf7ec55e2f923fe463685413acec8615fd45c36/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/avetikabovyan/.android/build-cache/a8b27c843baaad45158e58289bf53649c581cf6c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/avetikabovyan/.android/build-cache/34e4d522886dcdc199ae668c39c5c1885fa4eccb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/avetikabovyan/.android/build-cache/9ca09682edddbf3f50e79ad5f284da5ea0129508/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/avetikabovyan/.android/build-cache/3ddcffe13b6913533b9f131fc99c03f4366c206a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/avetikabovyan/.android/build-cache/b09e081bad410986d08ba2d7d3e3b5483385b236/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/avetikabovyan/.android/build-cache/14535bf793daf3b73159f62a9b7ecd47de920d07/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/avetikabovyan/.android/build-cache/d9f82429910919e23252218b2c4dd85c974d3255/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/avetikabovyan/.android/build-cache/1db52f40014de7c29f28a4b9f80f5c7a4baba2d1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/avetikabovyan/.android/build-cache/8737fe119cd1b5e60c395329f54dabafb56326b0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/avetikabovyan/.android/build-cache/927cf73c112759238faaa0cffafec47dba60edcd/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/avetikabovyan/.android/build-cache/2a82b88645db0fc6b8d056cb7f888167e5901044/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/avetikabovyan/.android/build-cache/2a82b88645db0fc6b8d056cb7f888167e5901044/output/AndroidManifest.xml:26:9-47

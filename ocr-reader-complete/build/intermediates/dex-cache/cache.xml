@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/.android/build-cache/d9315a454135340ffdedd37aef1d009cf0523c59/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45450bb369b3e5b3104dc485d4f9b14a3d68bc0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/.android/build-cache/fe4545c7b6f1063b4e8eb5af3558b631842b2dbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_837ea406fb1110e6c02e70b188c78685f2983cf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/.android/build-cache/f783b1cec3807e9b376ba9931eb2f85e2176dded/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9001dbea6cbae3cbfc84435de25bb6ba5dcb0d03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fd28ad3ccffccdda72ff8ab2a04ef5fa2305883">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_998127eacb2e0dccdcdc96bb75f7c707205a2e14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/.android/build-cache/81678a7113dac7fb82b83d9aa2c9290966992f71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47227f5e35dcfb77f0cc4d6ed263325d194f0f4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.0.1/7ffdb02f95af1c1a208544e076cea5b8e66e731a/commons-io-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.0.1_2bcc15d30e1fdcae3f011182116d8acd16d318f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/.android/build-cache/0e927180df4a03e28bea2131b9b301558c264e61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abc58346d8519a4be59cdf0f9fe3eb52dd9c8ac">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09331335fc386528fc8f0deceaac6babad6eced9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2fc683a726a2bd34f8aaf280143668165e39c8db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avetikabovyan/.android/build-cache/54d5558794ec56566630a6368a63d3cd3306e48e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="/Users/avetikabovyan/Backup/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b4e3f2ea457eae5fb097460786f58dc9e474245/classes.dex" />
+    </item>
+
+</items>
